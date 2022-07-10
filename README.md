@@ -1,6 +1,6 @@
 # Stock Price Predictor
 
-Welcome to my stock price predictor. The aim of the website is to be able to predict if the price of a stock goes up the next trading day.<!-- Other features are listed in docs/spec.md-->
+Welcome to my stock price predictor. The aim of the website is to be able to predict if the price of a stock goes up the next trading day. Other features are listed in docs/spec.md.
 
 <!--Visit my working demo [here](https://www.example.com).-->
 

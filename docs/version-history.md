@@ -1,5 +1,8 @@
 # version history
 
+### version 0.0.2 - 1 (10 Jul 2022)
+added spec
+
 ### version 0.0.1 - 1 (9 Jul 2022)
 Initial commit
 
